@@ -1,0 +1,16 @@
+{
+  "beneficiarios": [
+    {
+      "cpf": "12345678901",
+      "nome_beneficiario": "Maria Oliveira",
+      "status_plano": "ATIVO",
+      "validade": "2025-12-31"
+    },
+    {
+      "cpf": "98765432100",
+      "nome_beneficiario": "João da Silva",
+      "status_plano": "INATIVO",
+      "validade": "2024-01-01"
+    }
+  ]
+}
